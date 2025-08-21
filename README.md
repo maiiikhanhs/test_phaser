@@ -74,8 +74,7 @@ falling-stars-game/
 └── README.md            
 
 
-4. ⚙️ Cài đặt & chạy
-git clone https://github.com/your-username/falling-stars-game.git  
+4. ⚙️ Cài đặt & chạy git clone https://github.com/maiiikhanhs/test_phaser
 cd falling-stars-game  
 npm install  
 npm run dev  
