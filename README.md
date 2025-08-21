@@ -67,11 +67,11 @@ this.scoreText = this.add.text(16, 16, "Score: 0");
 
 3. 🏗️ Cấu trúc thư mục
 falling-stars-game/  
-├── public/assets/      # Hình ảnh & âm thanh  
-├── src/main.ts         # Code game chính  
-├── index.html          # File HTML  
-├── package.json        # Thông tin project & dependency  
-└── README.md           # Tài liệu mô tả  
+├── public/assets/       
+├── src/main.ts       
+├── index.html           
+├── package.json        
+└── README.md            
 
 
 4. ⚙️ Cài đặt & chạy
